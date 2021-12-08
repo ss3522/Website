@@ -1,0 +1,15 @@
+---
+title: "Sangbeom Seo"
+image: "Sangbeom.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/sangbeom-seo-682ba0224/"
+  - label: GitHub
+    url: "https://github.com/ss3522"
+  - label: Email
+    url: "tsg01097@gmail.com"
+output:
+ postcards::trestles
+---
+ 
+I am a graduate student majoring in accounting. I am from Daegu, South Korea. I love soccer and music and talk abouot them.
