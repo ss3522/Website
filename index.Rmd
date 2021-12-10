@@ -3,7 +3,7 @@ title: "Sangbeom Seo"
 image: "Sangbeom.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/in/sangbeom-seo-682ba0224/"
+    url: "https://www.naver.com"
   - label: GitHub
     url: "https://github.com/ss3522"
   - label: Email
